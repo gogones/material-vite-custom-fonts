@@ -5,7 +5,8 @@ import { red } from '@mui/material/colors';
 const theme = createTheme({
   typography: {
     fontFamily: [
-      "Dancing Script",
+      "Bagel Fat One",
+      // "Dancing Script",
       "Helvetica",
       "Arial",
       "sans-serif"
